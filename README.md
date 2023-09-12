@@ -8,9 +8,8 @@ My purpose is to demonstrate my ability to use GitHub correctly with a project.
 
 # Development Environment
 
-Developed in Visual Studio Code.
-
-Written in python language.
+Visual Studio Code.
+Python 3.11
 
 # Useful Websites
 None.
